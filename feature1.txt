@@ -1,1 +1,5 @@
 # This is a new feature
+I known ,I need to study more than now due to gain my target.
+I really like git ,it is happy for me.
+
+This is the chande in feature1
